@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.2](https://github.com/coder/balatrobot/compare/v1.4.1...v1.4.2) (2026-03-20)
+
+
+### Bug Fixes
+
+* **metadata:** change the Steamodded dependency to include betas. ([c37a6b4](https://github.com/coder/balatrobot/commit/c37a6b458b91babfdc00e173d861b8947c1b7485))
+
+
+### Documentation
+
+* **index:** fix link to BalatroBot in index.md ([09eee0e](https://github.com/coder/balatrobot/commit/09eee0eeb21dddf90cc3df97525040e0e255ddad))
+* **installation:** fixing releases link ([fa5abf1](https://github.com/coder/balatrobot/commit/fa5abf1619dec6c909abdfaeec567340377082cf))
+
 ## [1.4.1](https://github.com/coder/balatrobot/compare/v1.4.0...v1.4.1) (2026-02-06)
 
 
